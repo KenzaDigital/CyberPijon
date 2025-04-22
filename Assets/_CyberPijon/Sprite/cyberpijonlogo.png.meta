@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cyberpijonlogo_0: -192956062861801496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

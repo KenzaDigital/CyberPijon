@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glitch_game_over_hd_game_over-1366x768_0: -23625525511387692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
